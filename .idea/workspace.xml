@@ -29,33 +29,6 @@
         <item name="@101.227.69.51" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@101.227.69.51" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="foodmart: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@101.227.69.51" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="foodmart: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="customer: table" type="285a2a93:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@101.227.69.51" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="foodmart: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="sales_fact_1997: table" type="285a2a93:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@101.227.69.51" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="foodmart: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="time_by_day: table" type="285a2a93:MysqlImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
@@ -64,26 +37,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Action In Learning/sample_schema.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="n#Dimensions#0;n#Cube#0;n#Schema#0;n#!!top" />
                 <element signature="n#Dimension#0;n#Dimensions#0;n#Cube#0;n#Schema#0;n#!!top" />
                 <element signature="n#MeasureGroups#0;n#Cube#0;n#Schema#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Action In Learning/others/foodmart4.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="416" column="4" selection-start-line="416" selection-start-column="4" selection-end-line="416" selection-end-column="4" />
-              <folding>
-                <element signature="n#Table#2;n#PhysicalSchema#0;n#Schema#0;n#!!top" />
-                <element signature="n#MeasureGroup#0;n#MeasureGroups#0;n#Cube#0;n#Schema#0;n#!!top" />
-                <element signature="n#Measures#0;n#MeasureGroup#0;n#MeasureGroups#0;n#Cube#0;n#Schema#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -104,8 +63,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="835" />
   </component>
@@ -128,12 +87,6 @@
               <item name="MondrianInAction" type="e2918438:DataGripProjectViewPane$1$1" />
               <item name="MondrianInAction" type="252d1985:DataGripProjectViewPane$1$1$1" />
               <item name="Action In Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MondrianInAction" type="e2918438:DataGripProjectViewPane$1$1" />
-              <item name="MondrianInAction" type="252d1985:DataGripProjectViewPane$1$1$1" />
-              <item name="Action In Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MondrianInAction" type="e2918438:DataGripProjectViewPane$1$1" />
@@ -183,10 +136,9 @@
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="835" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="835" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.24964234" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,7 +150,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" content_ui="combo" id="Project" order="0" sideWeight="0.25841185" visible="true" weight="0.27825466" />
-      <window_info active="true" anchor="right" id="Structure" order="1" sideWeight="0.7415882" side_tool="true" visible="true" weight="0.27825466" />
+      <window_info anchor="right" id="Structure" order="1" sideWeight="0.7415882" side_tool="true" visible="true" weight="0.27825466" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -223,10 +175,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Action In Learning/others/foodmart4.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="416" column="4" selection-start-line="416" selection-start-column="4" selection-end-line="416" selection-end-column="4" />
+        <state relative-caret-position="176">
+          <caret line="250" column="20" lean-forward="true" selection-start-line="250" selection-start-column="20" selection-end-line="250" selection-end-column="20" />
           <folding>
             <element signature="n#Table#2;n#PhysicalSchema#0;n#Schema#0;n#!!top" />
+            <element signature="n#ColumnDefs#0;n#Table#11;n#PhysicalSchema#0;n#Schema#0;n#!!top" />
+            <element signature="n#CalculatedColumnDef#0;n#ColumnDefs#0;n#Table#11;n#PhysicalSchema#0;n#Schema#0;n#!!top" />
             <element signature="n#MeasureGroup#0;n#MeasureGroups#0;n#Cube#0;n#Schema#0;n#!!top" />
             <element signature="n#Measures#0;n#MeasureGroup#0;n#MeasureGroups#0;n#Cube#0;n#Schema#0;n#!!top" />
           </folding>
@@ -235,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Action In Learning/sample_schema.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="n#Dimensions#0;n#Cube#0;n#Schema#0;n#!!top" />
             <element signature="n#Dimension#0;n#Dimensions#0;n#Cube#0;n#Schema#0;n#!!top" />
